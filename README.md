@@ -1,7 +1,7 @@
 # prgrama8_parcial2
 
 
-<b>Autor:</b> Franciscomilan, <b>Fecha:</b>     <br>
+<b>Autor:</b> Franciscomilan, <b>Fecha:</b>  04/04/22 <br>
  <b>Escuela:</b> Universidad uvm, <b>Materia:</b> Programacion estructurada <br>
  <b>Profesor:</b> Armando Cruz, <b>Ciclo:</b> 01/2022
  <br>
